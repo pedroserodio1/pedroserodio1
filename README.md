@@ -1,6 +1,6 @@
 - Olá, meu nome e Pedro Henrique Serôdio de Oliveira
 - Sou formado em tecnico em informatica para internet no Centro de Educação Profissional "Tancredo Neves"
-- Eu estudo back-end, principalmente PHP
+- Eu estudo back-end, atualmete Node JS
 - Aqui e meu portifólio de projetos, seja bem-vindo
 
 
