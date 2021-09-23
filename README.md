@@ -1,8 +1,33 @@
-- Olá, meu nome e Pedro Henrique Serôdio de Oliveira
-- Sou formado em tecnico em informatica para internet no Centro de Educação Profissional "Tancredo Neves"
-- Eu estudo back-end, atualmete Node JS
-- Aqui e meu portifólio de projetos, seja bem-vindo
+# Welcome!
 
+ 
+
+## I'm Pedro Serôdio!
+
+<img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroserodio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroserodio1&show_icons=true&theme=radical)
+
+
+:computer: I'm Back-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning Node.
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroserodio1/)](https://github.com/pedroserodio1/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroserodio1)](https://www.linkedin.com/in/pedroserodio1)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
 
 <!---
 pedroserodio1/pedroserodio1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
