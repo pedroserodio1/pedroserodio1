@@ -8,14 +8,16 @@
 <img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroserodio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroserodio1&show_icons=true&theme=radical)
-
-
 :computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning Node.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroserodio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroserodio1&show_icons=true&theme=radical)
+
+
 
 ## About me
 
