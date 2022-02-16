@@ -27,7 +27,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroserodio1)](https://www.linkedin.com/in/pedroserodio1)
 
-[![Gmail Badge](https://img.shields.io/badge/-serodio.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serodiomg@gmail.com)](mailto:serodiomg@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-serodiomg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serodiomg@gmail.com)](mailto:serodiomg@gmail.com)
 
 
 
