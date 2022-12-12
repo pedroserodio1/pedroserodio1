@@ -18,7 +18,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroserodio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroserodio1&show_icons=true&theme=radical)
-
+<a height="150em" href="http://www.github.com/pedroserodio1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroserodio1&stroke=e7f216&theme=highcontrast&ring=e7f216&fire=e7f216&currStreakNum=e4e2e2&currStreakLabel=e7f216&sideNums=e4e2e2&sideLabels=e4ef1d&dates=e4e2e2&hide_border=true"/></a>
 
 
 ## About me
