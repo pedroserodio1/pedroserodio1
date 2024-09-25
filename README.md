@@ -12,8 +12,6 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Node.
-
 🔭 I’m currently working on Top System
 
 
