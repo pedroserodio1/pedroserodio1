@@ -1,39 +1,39 @@
-# Welcome!
 
- 
-
-## I'm Pedro Serôdio!
-
-<img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-:computer: I'm Back-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-🔭 I’m currently working on Tech4Humans
+# Opa, sou o Pedro Serôdio! 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroserodio1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroserodio1&show_icons=true&theme=radical)<br>
+## 🚀 Sobre mim
+Eu sou um desenvolvedor de software focado em construir soluções de backend robustas, escaláveis e inteligentes. Minha paixão é desenhar sistemas complexos e explorar a integração de Inteligência Artificial em aplicações práticas.
+
+Atualmente, estou aprofundando meus conhecimentos com o objetivo de seguir carreira como **Arquiteto de Software**. 
 
 
+## 🛠 Habilidades
+Minha stack principal gira em torno do ecossistema JavaScript/TypeScript e .NET, mas estou sempre aberto a aprender novas ferramentas.
 
-## About me
+* **Linguagens:** JavaScript, TypeScript, C#, Java
+* **Backend:** Node.js, Express, Fastify, .NET Core, Springboot
+* **Infra & DevOps:** Docker, Nginx, CI/CD
+* **Frontend:** React
+* **IA & LLMs:** Experiência com integração de modelos (especialmente via Ollama)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroserodio1/)](https://github.com/pedroserodio1/)
+### 🌱 O que estou explorando
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroserodio1)](https://www.linkedin.com/in/pedroserodio1)
-
-[![Gmail Badge](https://img.shields.io/badge/-serodiomg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serodiomg@gmail.com)](mailto:serodiomg@gmail.com)
-
+* **Projetos Atuais:** Estou trabalhando em alguns projetos pessoais, incluindo o **Mockpay** para simular fluxos de pagamento e explorar arquiteturas no-code.
+* **Estudos:** Focado em padrões de arquitetura de software e design de sistemas distribuídos.
 
 
-- Thanks for visiting.
+## 
+👩‍💻 Trabalho atualmente na **Tech4Humans**
 
-- Enjoy it!! o/
+🧠 Estou aprendendo arquiterura de software
 
-<!---
-pedroserodio1/pedroserodio1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Como entrar em contato comigo: Pode me chamar no linkedin abaixo
+
+##
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedroserodio1&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroserodio1/)
+
+
