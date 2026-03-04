@@ -19,7 +19,6 @@ Minha stack principal gira em torno do ecossistema JavaScript/TypeScript e .NET,
 
 ### 🌱 O que estou explorando
 
-* **Projetos Atuais:** Estou trabalhando em alguns projetos pessoais, incluindo o **Mockpay** para simular fluxos de pagamento e explorar arquiteturas no-code.
 * **Estudos:** Focado em padrões de arquitetura de software e design de sistemas distribuídos.
 
 
